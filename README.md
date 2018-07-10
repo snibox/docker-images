@@ -1,4 +1,5 @@
 # Docker images
+Docker images to power [snibox-docker](https://github.com/snibox/snibox-docker) services.
 
 ## Images
 
