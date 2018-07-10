@@ -1,7 +1,9 @@
 # Docker images
 
-## nginx-puma
+## Images
+
+#### nginx-puma
 Nginx Alpine based image with proxy to Puma.
 
-# Licence
+## Licence
 Released under the [MIT License](https://opensource.org/licenses/MIT).
